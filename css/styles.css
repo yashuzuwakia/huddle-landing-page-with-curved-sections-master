@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+p{
+  line-height: 1.5;
+}
+/*---------------Header--------------------*/
+.header {
+  font-family: 'Poppins', sans-serif;
+  padding: 80px;
+  color: hsl(322, 100%, 66%);
+}
+
+.logo {
+  float: left;
+}
+
+.button {
+  border: 2px solid hsl(322, 100%, 66%);
+  float: right;
+  border-radius: 30px;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/*---------------Body--------------------*/
+h1 {
+  padding-top: 20px;
+  color: hsl(192, 100%, 9%);
+  font-size: 40px;
+}
+
+.main {
+  font-family: 'Open Sans', sans-serif;
+  Weights: 400, 600, 700;
+  color: hsl(192, 70%, 9%);
+  padding: 20px;
+}
+
+.message {
+  width: 37%;
+  margin: auto;
+}
+
+.button-div{
+  margin:20px;
+}
+.button1 {
+  border-style: none;
+  border-radius: 30px;
+  padding: 20px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: hsl(321, 100%, 78%);
+  color: white;
+}
+
+
+.middle-container {
+  margin: 50px;
+
+}
+
+.middle-container h1 {
+  font-size: 80px;
+  margin: 0;
+
+}
+.communities {
+    width: 50%;
+    display: inline-block;
+    float: left;
+
+}
+
+.com-img {
+
+}
+
+.messages {
+  width: 50%;
+  display: inline-block;
+}
+
+.mockup {
+  margin : 50px;
+
+}
+
+.grow-together {
+  margin: 100px 50px 400px;
+}
+.grow-img {
+  width:40%;
+  float: right;
+}
+
+.flowing {
+  margin: 100px 50px 400px;
+}
+.flow-img {
+  width:40%;
+  float: left;
+}
+
+.users {
+  margin: 100px 50px 400px;
+}
+.users-img {
+  width:40%;
+  float: right;
+}
+
+.button-div {
+  margin-bottom: 200px;
+}
+
+/*---------------Footer--------------------*/
+
+footer {
+background-color: hsl(192, 100%, 9%);
+color:white;
+margin: 0;
+}
+.foot {
+  position: relative;
+  top: -150px;
+}
+.row {
+  display: flex;
+  margin: 60px;
+  text-align: left;
+}
+.con-mes {
+ width: 30%;
+ position: relative;
+ right: -300px;
+}
+
+.contact {
+  width: 30%;
+  position: relative;
+
+}
+
+.attribution {
+  margin: 0;
+}
